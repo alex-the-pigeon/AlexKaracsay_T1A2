@@ -1,10 +1,11 @@
 body {
   margin: 0;
-  background-color: #D9D9D9;
+  background-color: #0E151B;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  font-family: "Abel", sans-serif;
 }
 
 header {
@@ -19,11 +20,36 @@ header .nav-items {
   width: 100%;
   display: flex;
   justify-content: space-around;
-  font-size: 18px;
+  font-size: 24px;
+  font-family: "Abel", sans-serif;
 }
 header .nav-items a {
   text-decoration: none;
-  color: #A8E1AF;
+  color: #0E151B;
+}
+
+@media screen and (min-width: 600px) {
+  header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+  }
+  header .logo-name {
+    margin-bottom: 0;
+  }
+  header .logo-name .name {
+    margin-bottom: 0;
+  }
+  header .nav-items {
+    width: 50%;
+  }
+}
+main section .homeimage img {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 footer {
@@ -37,6 +63,14 @@ footer .social-media {
   margin-bottom: 24px;
 }
 footer .social-media a i {
-  color: #A8E1AF;
-  font-size: 24px;
+  color: #0E151B;
+  font-size: 36px;
+}
+
+@media screen and (min-width: 600px) {
+  footer .social-media {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }/*# sourceMappingURL=index.css.map */
