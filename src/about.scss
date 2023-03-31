@@ -1,0 +1,30 @@
+
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    article {
+        border: 5px solid #516155;
+        border-radius: 8px;
+        overflow: hidden;
+        margin: 20px 0px;
+        background-color: #f5f5dc;
+        padding: 24px;
+        text-align: center;
+
+
+        section {
+            .blog {
+                width: 400px
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 600px) {
+    main {
+        justify-content: space-around;
+    }
+}
