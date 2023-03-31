@@ -10,7 +10,7 @@ main article {
   margin: 20px 0px;
   background-color: #f5f5dc;
   padding: 24px;
-  text-align: center;
+  text-align: left;
 }
 main article section .blog {
   width: 450px;
@@ -20,4 +20,4 @@ main article section .blog {
   main {
     justify-content: space-around;
   }
-}/*# sourceMappingURL=about.css.map */
+}/*# sourceMappingURL=contact.css.map */
