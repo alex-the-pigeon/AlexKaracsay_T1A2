@@ -12,7 +12,7 @@ insert link here
 insert link here
 
 ## Site description
-The site has a very basic and clean design featuring a navigation bar at the top of the page with links to home, about, blog and contact pages. It is designed to function as a portfolio and when projects are completed a respective page can easily be added to feature them. As I do not have any projects to feature I did not include a blank page. The target audience will be prospective employers or fellow developers to network with.
+The site has a very basic and clean design featuring a navigation bar at the top of the page with links to home, about, blog and contact pages. It is designed to function as a portfolio and when projects are completed a respective page can easily be added to feature them. As I do not have any projects to feature I did not include a blank page. The target audience will be prospective employers.
 
 ## Tech stack
 HTML, CSS and SCSS were used to write the website as well as Markdown for this README file. The code was written in VSCode, pushed to GitHub and deployed via Netlify. The wireframes were created using Figma and the images used (sourced from Unsplash) were edited using Pixelmator Pro. The website logo was created using Procreate on iPad.

@@ -3,7 +3,6 @@ main {
     justify-content: center;
     flex-wrap: wrap;
 // This sets the design for the articles
-
     article {
         border: 5px solid #516155;
         border-radius: 8px;
@@ -16,18 +15,18 @@ main {
         section {
             .blog {
                 width: 400px
+                
+            }  
+            a {
             
+                text-decoration: none;
+                color: #0E151B;
+                
+            }
+            a:hover {
+                color:#516155;
             }
 
-        a {
-            
-            text-decoration: none;
-            color: #0E151B;
-            
-        }
-        a:hover {
-            color:#516155;
-        }
         }
     }
 }
