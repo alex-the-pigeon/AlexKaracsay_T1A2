@@ -1,3 +1,4 @@
+// Used mixin and background-stuff so I didn't have to type in everything 
 $primary-background: #516155;
 
 @mixin background-stuff() {
@@ -70,17 +71,19 @@ header {
     
 }
 
-
+// main section of body
  main {
      section {
             
             color: #516155;
              font-size: 30px;
 
+             
+
         .homeimage {
              img {
              display: flex;
-             justify-content: space-between;
+             justify-content: space-around;
              height: 40%;
              width: 100%;
              margin-top: 10px;
@@ -90,7 +93,7 @@ header {
         }
      }
  }
-
+// this is the footer 
 footer {
     @include background-stuff();
 
