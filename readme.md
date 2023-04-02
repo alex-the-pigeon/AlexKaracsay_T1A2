@@ -5,24 +5,24 @@ This is the documentation for my portfolio project. Here you will find the relev
 
 ## Links
 ### **Published website**
-insert link here
+[Published site](https://alexk-portfolio-t1a2.netlify.app)
 ### **Github repo**
 [Github repo](https://github.com/alex-the-pigeon/AlexKaracsay_T1A2)
 ### **Presentation video**
-insert link here
+[Presentation video](https://www.youtube.com/watch?v=A7T9Duf3aQI)
 
 ## Site description
 The site has a very basic and clean design featuring a navigation bar at the top of the page with links to home, about, blog and contact pages. Once I have projects to showcase, a projects page can easily be added. The target audience will be prospective employers.
 
 ## Tech stack
-HTML, CSS and SCSS were used to write the website as well as Markdown for this README file. The code was written in VSCode, pushed to GitHub and deployed via Netlify. The wireframes were created using Figma and the images used (sourced from Unsplash) were edited using Pixelmator Pro. The website logo was created using Procreate on iPad.
+HTML, CSS and SCSS were used to write the website as well as Markdown for this README file. The code was written in VSCode, pushed to GitHub and deployed via Netlify. The mockups were created using Figma and the images used (sourced from Unsplash) were edited using Pixelmator Pro. The website logo was created using Procreate on iPad.
 
 ## Components - Design
 ### Sitemap
 ![sitemap diagram](./docs/sitemap.png)
 
 ### Screenshots
-I have included three screenshots of the site each featuring a different page. One is mobile, one tablet and one desktop view.
+I have included three screenshots of the site each featuring a different page. One is mobile, one tablet and one desktop view. A complete display of all screenshots/mockups can be found in the slide deck.
 
 ![mobile contact page](./docs/mobile_contactme.png)
 
@@ -139,5 +139,6 @@ footer {
     }
 }
 ```
-
+## Conclusion
+Overall I believe that I created an easy to navigate site with a cohesive design theme throughout. I aimed to make it readable on multiple screen sizes and different types of displays, with consideration given to colour and aesthetic choice. It is a site that can be easily added to and looks clean and professional without looking boring.
 
